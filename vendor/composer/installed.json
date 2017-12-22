@@ -1,0 +1,32 @@
+[
+    {
+        "name": "ywb1995/composer",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ywb1995/composer.git",
+            "reference": "c98d84e90dc3b1de34f6cad61d437f8e49f13100"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/ywb1995/composer/c98d84e90dc3b1de34f6cad61d437f8e49f13100.zip",
+            "reference": "c98d84e90dc3b1de34f6cad61d437f8e49f13100",
+            "shasum": ""
+        },
+        "time": "2017-12-22T07:46:38+00:00",
+        "type": "project",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "mit"
+        ],
+        "authors": [
+            {
+                "name": "ywb",
+                "email": "1540601646@qq.com"
+            }
+        ],
+        "description": "test composer"
+    }
+]

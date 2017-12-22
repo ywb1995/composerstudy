@@ -1,0 +1,16 @@
+{
+    "name": "122/aa",
+    "description": "test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "yw",
+            "email": "150540@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ywb1995/composer":"*"
+    }
+}
